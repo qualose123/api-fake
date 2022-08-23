@@ -1,7 +1,6 @@
 {
   "tarefas": [
     {
-<<<<<<< HEAD
       "title": "VEM MONSTRO",
       "objective": "FIKAGR4NDEPORR4",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_791446-MLB42427400068_072020-O.jpg",
@@ -9,7 +8,6 @@
       "userId": 1,
       "id": 14
     },
-    
     {
       "title": "teste",
       "objective": "testar",
@@ -31,7 +29,8 @@
       "imagem": "https://img.elo7.com.br/product/zoom/227A488/luminaria-led-3d-one-piece-luffy-anime-acrilico-abajur.jpg",
       "description": "one piece",
       "id": 17
-=======
+    },
+    {
       "title": "Ir passear com o Dog",
       "description": "passear com o dog para desestressa-lo",
       "objective": "2016",
@@ -59,7 +58,6 @@
       "description": "pegar one piece e mudar o mundo sadsasdasdasdasdasdasda",
       "userId": 1,
       "id": 10
->>>>>>> dad93216d3d8d5c5314d47c2a2b8683a45ddc07d
     }
   ]
 }
